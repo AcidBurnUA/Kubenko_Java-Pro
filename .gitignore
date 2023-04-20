@@ -17,7 +17,7 @@ dist/
 # Maven
 target/
 
-# JetBrains IDE
+# JetBrains I
 .idea/
 out/
 
