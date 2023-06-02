@@ -1,4 +1,4 @@
-package Homework12;
+package Homework13;
 import java.util.*;
 public class FileNavigator {
     private Map<String, List<FileData>> filesByPath;
